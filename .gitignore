@@ -1,0 +1,5 @@
+node_modules
+.my-session
+data.json
+test.json
+test2.json

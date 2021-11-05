@@ -1,0 +1,20 @@
+.scene-container{
+    height: 100%;
+}
+scene-container canvas{
+    height: 100%;
+}
+.person_info{
+background-color: #4d6b85;
+position: absolute;
+z-index: 1;
+}
+.person_ids{
+    display: inline;
+}
+.person_id{
+    display: inline;
+}
+.person_photo p{
+    margin-top: 0px;
+}

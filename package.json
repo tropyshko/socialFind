@@ -1,0 +1,24 @@
+{
+  "name": "socialfind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node server.js",
+    "vk": "node vk.js"
+  },
+  "dependencies": {
+    "accessor-fn": "1",
+    "easyvk": "^2.8.2",
+    "express": "^4.17.1",
+    "kapsule": "^1.13",
+    "logger": "0.0.1",
+    "three": ">=0.118 <1",
+    "three-forcegraph": "^1.39",
+    "three-render-objects": "^1.26"
+  },
+  "author": "",
+  "license": "ISC"
+}
